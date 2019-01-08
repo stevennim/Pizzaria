@@ -20,7 +20,8 @@
         <item>Cambridge</item>
         <item>Kitchener</item>
     </string-array>
-
+    <string name="order_name_hint">Please enter your name</string>
+    <string name="order_details_hint">Please enter your order</string>
     <string name="company_name">Pizza HQ</string>
     <string name="restaurant_image">This is a picture of good looking pizza</string>
     <string name="home_text">For decades, Pizza HQ has conducted extensive, in-depth research
