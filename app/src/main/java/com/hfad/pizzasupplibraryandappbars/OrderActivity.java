@@ -17,7 +17,7 @@ public class OrderActivity extends AppCompatActivity {
         setSupportActionBar(t);
 
         //get reference to app bar and enable Up button
-        ActionBar yeet = getSupportActionBar();
-        yeet.setDisplayHomeAsUpEnabled(true);
+        ActionBar ab = getSupportActionBar();
+        ab.setDisplayHomeAsUpEnabled(true);
     }
 }
