@@ -4,6 +4,10 @@
     <string name="create_order_title">Create OwOrder</string>
     <string name="action_share">Share</string>
     <string name="title_top">Top fragment</string>
+    <string name="pizzas_tab">Pizzas</string>
+    <string name="home_tab">Home</string>
+    <string name="pasta_tab">Pasta</string>
+    <string name="stores_tab">Stores</string>
     <string-array name="pizzas">
         <item>Pepperoni</item>
         <item>Deluxe</item>
@@ -16,4 +20,12 @@
         <item>Cambridge</item>
         <item>Kitchener</item>
     </string-array>
+
+    <string name="company_name">Pizza HQ</string>
+    <string name="restaurant_image">This is a picture of good looking pizza</string>
+    <string name="home_text">For decades, Pizza HQ has conducted extensive, in-depth research
+        to discover the optimal taste of digital pizza. Now, we are ready to present our findings.
+        Pizza HQ\'s finely crafted selection of pizzas are not only as savory as they look, but
+        completely incapable of being eaten. Now you can take Instagram™ photos of your masterfully
+        crafted Italian dish without the worry of it getting cold.</string>
 </resources>
