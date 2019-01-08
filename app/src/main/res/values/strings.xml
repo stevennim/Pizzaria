@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pizza Time</string>
+    <string name="create_order">Create Order</string>
+    <string name="create_order_title">Create OwOrder</string>
+    <string name="action_share">Share</string>
+    <string name="title_top">Top fragment</string>
+    <string-array name="pizzas">
+        <item>Pepperoni</item>
+        <item>Deluxe</item>
+    </string-array>
+    <string-array name="pastas">
+        <item>Spaghetti Bolognese</item>
+        <item>Lasagne</item>
+    </string-array>
+    <string-array name="stores">
+        <item>Cambridge</item>
+        <item>Kitchener</item>
+    </string-array>
+</resources>
